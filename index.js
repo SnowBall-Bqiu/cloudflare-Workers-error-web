@@ -121,7 +121,7 @@ const HTML_TEMPLATE = `
         <!-- 头部品牌信息 -->
         <div class="header">
             <div class="branding">
-                <img src="Snowball_Intelligent.png" class="logo" alt="Logo">
+                <img src="https://r2.cf.bqiu.top/app/Snowball_Intelligent.png" class="logo" alt="Logo">
                 <div class="logo-divider"></div>
                 <div class="company-info">
                     这是在托管在cloudflare的告知页面
@@ -145,11 +145,11 @@ const HTML_TEMPLATE = `
                     <p>错误代码:<span class="highlight">{ERROR_CODE}</span></p>
                 </div>
             <div class="alert-footer">
-                <img src="!.webp">
+                <img src="https://r2.cf.bqiu.top/app/!.webp">
                 <div class="alert-footer-text">
                     <p>如果您遇到问题，欢迎您通过我的联系方式提交问题，感谢您！</p>
                 </div>
-                <img src="boot.gif" class="logo" alt="boot">
+                <img src="https://r2.cf.bqiu.top/app/boot.gif" class="logo" alt="boot">
             </div>
         </div>
         <div class="footer">
